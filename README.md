@@ -17,11 +17,11 @@ Mini-objectives:
 - [ ] Interface Arduino with RPi and use waveshare servomotors
 
 ## Pictures of the work done:
-Initial Prototype           |  Propulsive performance
-:-------------------------:|:-------------------------:
-![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/sample-prot.jpg?raw=true)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/Fin-prototype.mp4)
+Initial Prototype           |  Wave traced | Sine-wave formed 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/sample-prot.jpg?raw=true)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/wave-trace.jpg?raw=true)|  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/sinusoidal-wave.jpg)
 
-Wave traced           |  High-speed cam video (studying wave nature)
+Force plot           |  Force-plot low pass filter
 :-------------------------:|:-------------------------:
-![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/wave-trace.jpg?raw=true)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/high-speed-cam-vid.mp4)
+![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/force%20plot.png)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/plot_low_pass.png)
 
