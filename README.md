@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/05e58cda-650d-4d88-8f91-2682e8569e1c
 # Bio-mimetic Undulating Fin robot:
 
 This is a bio-mimetic robot I have been developing as part of a project at my university (BITS-Pilani, Hyderabad Campus).
@@ -24,4 +26,11 @@ Initial Prototype           |  Wave traced | Sine-wave formed
 Force plot           |  Force-plot low pass filter
 :-------------------------:|:-------------------------:
 ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/force%20plot.png)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/plot_low_pass.png)
+
+#### Videos:
+- Propulsive performance
+https://github.com/user-attachments/assets/18210ce3-b6a2-4e74-91f3-623ebb76248b
+  
+- PTC high speed cam
+https://github.com/user-attachments/assets/a551d97b-4012-4fb9-987e-97f8e6622dca
 
