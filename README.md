@@ -15,3 +15,13 @@ Mini-objectives:
 - [x] Hull for underwater rover
 - [x] Servo mounts
 - [ ] Interface Arduino with RPi and use waveshare servomotors
+
+## Pictures of the work done:
+Initial Prototype           |  Propulsive performance
+:-------------------------:|:-------------------------:
+![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/sample-prot.jpg?raw=true)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/Fin-prototype.mp4)
+
+Wave traced           |  High-speed cam video (studying wave nature)
+:-------------------------:|:-------------------------:
+![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/wave-trace.jpg?raw=true)  |  ![](https://github.com/anushtup-nandy/Undulating-fin/blob/main/pic/high-speed-cam-vid.mp4)
+
